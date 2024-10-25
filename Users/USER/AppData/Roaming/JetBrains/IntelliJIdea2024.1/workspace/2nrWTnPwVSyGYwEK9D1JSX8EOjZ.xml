@@ -33,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf ideFingerprint="2f9c5mv6kukx5" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file current-in-tab="false">
+      <file>
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider editor-type-id="text-editor" selected="true">
-            <state>
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="88">
+              <caret line="4" column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -96,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file>
+      <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="89">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="400">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -324,18 +324,18 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20328000" />
+    <option name="totallyTimeSpent" value="22263000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22102866" />
-      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.22102866" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.25898027" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.55561996" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.28215528" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.55561996" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.2682503" />
       <window_info anchor="bottom" id="Build" order="6" />
@@ -344,12 +344,14 @@
       <window_info anchor="right" id="Database" order="2" weight="0.17415366" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.14615884" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.55561996" left="0.22102866" right="0.17415366" />
+      <unified_weights bottom="0.25898027" left="0.22102866" right="0.17415366" />
     </layoutV2>
     <recentWindows>
-      <value>Terminal</value>
-      <value>Run</value>
       <value>Project</value>
+      <value>Version Control</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Run</value>
       <value>Services</value>
       <value>Database</value>
       <value>Gradle</value>
@@ -400,20 +402,21 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1454" height="437" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1729819284391" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1729821287851">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1729821287851" />
     <state x="599" y="242" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1729756684645">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="599" y="242" key="com.intellij.database.actions.DbDeleteProvider$2/0.0.1536.864@0.0.1536.864" timestamp="1729756684645" />
+    <state x="368" y="70" width="800" height="724" key="new project wizard" timestamp="1729822390451">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="368" y="70" width="800" height="724" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1729822390451" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HELP.md" />
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/57697359-1043-47d5-8f78-a95f1f2c6e20/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -481,8 +484,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="400">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="37" selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
