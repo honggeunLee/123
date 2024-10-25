@@ -1,0 +1,243 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ap1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="bootdb2@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="bootdb2@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="bootdb2: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="bootdb2@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="bootdb2: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 3 table (host: schema bootdb2)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2f9c5mv6kukx5" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ap1/domain/BaseEntity.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 13,
+      "lastUsed": 1728359832011
+    },
+    "Gradle": {
+      "usageCount": 2,
+      "lastUsed": 1728359751865
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1728359092922
+    },
+    "YAML": {
+      "usageCount": 2,
+      "lastUsed": 1728359751050
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1728359252991
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/src/main/java/org/example/ap1/domain/ProductEntity.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/example/ap1/domain/ProductStatus.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/example/ap1/Ap1Application.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/example/ap1/repository/ProductRepository.java" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/src/test/java/org/example/ap1/repository/ProductTests.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/example/ap1/domain/BaseEntity.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="2" lastUsage="1728359751865" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="13" lastUsage="1728359832012" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1728359092922" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1728359252991" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1728359751050" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ap1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api1" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="ap1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api1" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="dir{file://C:/ws/api1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ap1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api1" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="dir{file://C:/ws/api1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3300866" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.19733045" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.3300866" right="0.25" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Gradle</value>
+      <value>Database</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1728359252527">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1728359252527" />
+    <state x="549" y="179" key="FileChooserDialogImpl" timestamp="1728359790818">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="179" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1728359790818" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HELP.md" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f0398604-e9de-45c1-bfad-1991a8f07ec8/console.sql" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ap1/domain/ProductStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ap1/repository/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/example/ap1/repository/ProductTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ap1/Ap1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ap1/domain/ProductEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/ap1/domain/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
