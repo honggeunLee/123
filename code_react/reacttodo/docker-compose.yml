@@ -1,0 +1,12 @@
+services:
+  web:
+    image: honggeun/test1:latest
+    ports:
+      - "80:80"
+
+  watchtower:
+    image: containrrr/watchtower
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    restart: always
+    command: --interval 30
